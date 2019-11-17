@@ -3,7 +3,7 @@
   "short_name": "pwasaya",
   "theme_color": "#2196f3",
   "background_color": "#e6ecf1",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/index.html",
