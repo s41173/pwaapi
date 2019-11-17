@@ -1,0 +1,28 @@
+{
+    "products" : [
+    {"id":1,"name":"Spotted hyena","category":"Mauv"},
+    {"id":2,"name":"Porcupine, indian","category":"Yellow"},
+    {"id":3,"name":"White rhinoceros","category":"Teal"},
+    {"id":4,"name":"Buffalo, american","category":"Teal"},
+    {"id":5,"name":"Prehensile-tailed porcupine","category":"Khaki"},
+    {"id":6,"name":"Coatimundi, white-nosed","category":"Crimson"},
+    {"id":7,"name":"Madagascar hawk owl","category":"Fuscia"},
+    {"id":8,"name":"Ferruginous hawk","category":"Aquamarine"},
+    {"id":9,"name":"European spoonbill","category":"Mauv"},
+    {"id":10,"name":"Swainson's francolin","category":"Aquamarine"},
+    {"id":11,"name":"Siskin, yellow-rumped","category":"Khaki"},
+    {"id":12,"name":"Snowy egret","category":"Fuscia"},
+    {"id":13,"name":"Arctic hare","category":"Turquoise"},
+    {"id":14,"name":"Long-tailed jaeger","category":"Blue"},
+    {"id":15,"name":"Robin, kalahari scrub","category":"Fuscia"},
+    {"id":16,"name":"Mongoose, yellow","category":"Red"},
+    {"id":17,"name":"Common eland","category":"Red"},
+    {"id":18,"name":"Nubian bee-eater","category":"Aquamarine"},
+    {"id":19,"name":"Knob-nosed goose","category":"Green"},
+    {"id":20,"name":"Hyena, striped","category":"Red"},
+    {"id":21,"name":"Boubou, southern","category":"Teal"},
+    {"id":22,"name":"Baboon, chacma","category":"Orange"},
+    {"id":23,"name":"Golden eagle","category":"Puce"},
+    {"id":24,"name":"Little brown bat","category":"Puce"},
+    {"id":25,"name":"Long-finned pilot whale","category":"Orange"}
+]}
